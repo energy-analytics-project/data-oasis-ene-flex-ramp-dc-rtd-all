@@ -1,0 +1,3 @@
+/mnt/PASSPORT/data/eap/energy-dashboard/data/data-oasis-ene-flex-ramp-dc-rtd-all/sql/20190905_20190906_ENE_FLEX_RAMP_DC_RTD_20190907_07_45_27_v4.sql
+/mnt/PASSPORT/data/eap/energy-dashboard/data/data-oasis-ene-flex-ramp-dc-rtd-all/sql/20190902_20190903_ENE_FLEX_RAMP_DC_RTD_20190905_08_33_38_v4.sql
+/mnt/PASSPORT/data/eap/energy-dashboard/data/data-oasis-ene-flex-ramp-dc-rtd-all/sql/20190831_20190901_ENE_FLEX_RAMP_DC_RTD_20190905_08_33_20_v4.sql
