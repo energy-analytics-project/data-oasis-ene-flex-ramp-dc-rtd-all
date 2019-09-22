@@ -1,0 +1,10 @@
+/home/toddg/proj/energy-dashboard/data/data-oasis-ene-flex-ramp-dc-rtd-all/sql/20140727_20140728_ENE_FLEX_RAMP_DC_RTD_20190814_21_18_30_v4.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-ene-flex-ramp-dc-rtd-all/sql/20160719_20160720_ENE_FLEX_RAMP_DC_RTD_20190814_22_20_34_v4.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-ene-flex-ramp-dc-rtd-all/sql/20140509_20140510_ENE_FLEX_RAMP_DC_RTD_20190814_21_11_42_v4.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-ene-flex-ramp-dc-rtd-all/sql/20150220_20150221_ENE_FLEX_RAMP_DC_RTD_20190814_21_36_26_v4.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-ene-flex-ramp-dc-rtd-all/sql/20140530_20140531_ENE_FLEX_RAMP_DC_RTD_20190814_21_13_30_v4.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-ene-flex-ramp-dc-rtd-all/sql/20141018_20141019_ENE_FLEX_RAMP_DC_RTD_20190814_21_25_37_v4.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-ene-flex-ramp-dc-rtd-all/sql/20131228_20131229_ENE_FLEX_RAMP_DC_RTD_20190814_21_00_27_v4.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-ene-flex-ramp-dc-rtd-all/sql/20161024_20161025_ENE_FLEX_RAMP_DC_RTD_20190814_22_28_54_v4.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-ene-flex-ramp-dc-rtd-all/sql/20131121_20131122_ENE_FLEX_RAMP_DC_RTD_20190814_20_57_17_v4.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-ene-flex-ramp-dc-rtd-all/sql/20150622_20150623_ENE_FLEX_RAMP_DC_RTD_20190814_21_46_49_v4.sql
